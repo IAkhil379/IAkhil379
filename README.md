@@ -9,12 +9,13 @@
 # I A K H I L
 
 **You build it, you run it**
+
 <br>
 <code>DevOps</code> · <code>Cloud</code> · <code>IaC</code> · <code>AI Infrastructure</code> · <code>Platform Engineering</code>
 <br>
 
 <br>
-**Turning DevOps Complexity into Developer Simplicity**
+Turning DevOps Complexity into Developer Simplicity
 <br>
 
 <!-- 
