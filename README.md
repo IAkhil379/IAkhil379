@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**IAkhil379/IAkhil379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+  BANNER IMAGE: 
+  Replace 'banner.png' with the actual link or path to your uploaded banner image.
 -->
+<img src="banner.png" alt="Harshhaa - Cloud & DevOps Engineer Banner" width="100%" />
+
+# H A R S H H A A
+
+---
+
+**Development Platform, Automation & MLOps Enthusiast**
+
+<br>
+
+<code>DevOps</code> · <code>MLOps</code> · <code>IDP</code> · <code>AI Infrastructure</code> · <code>Platform Engineering</code>
+
+<br>
+
+*Turning DevOps Complexity into Developer Simplicity*
+
+<br>
+
+<!-- 
+  SOCIAL LINKS & BADGES: 
+  Replace the '#' in the href attributes with your actual profile links. 
+-->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="#"><img src="https://img.shields.io/badge/Blog-FFA500?style=flat&logo=hashnode&logoColor=white" alt="Blog"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="#"><img src="https://img.shields.io/badge/Top%20Committer-India-FF4500?style=flat&logo=github&logoColor=white&labelColor=555555" alt="Top Committer India"></a>
+
+</div>
