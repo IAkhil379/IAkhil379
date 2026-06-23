@@ -4,9 +4,10 @@
   BANNER IMAGE: 
   Replace 'banner.png' with the actual link or path to your uploaded banner image.
 -->
-<img src="banner.png" alt="Harshhaa - Cloud & DevOps Engineer Banner" width="100%" />
+<img <img width="1584" height="396" alt="Pink Gradient Graphic Designer General Linkedin Banner" src="https://github.com/user-attachments/assets/222eee62-f215-432a-8349-c6656c6fbc59" />
 
-# H A R S H H A A
+
+# I AKHIL
 
 ---
 
