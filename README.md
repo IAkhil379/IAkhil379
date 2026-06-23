@@ -13,9 +13,7 @@
 <br>
 <code>DevOps</code> · <code>Cloud</code> · <code>IaC</code> · <code>AI Infrastructure</code> · <code>Platform Engineering</code>
 <br>
-
-
-
+---
 <!-- 
   SOCIAL LINKS & BADGES: 
   Replace the '#' in the href attributes with your actual profile links. 
