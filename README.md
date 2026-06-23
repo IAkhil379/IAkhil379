@@ -4,7 +4,7 @@
   BANNER IMAGE: 
   Replace 'banner.png' with the actual link or path to your uploaded banner image.
 -->
-<img <img width="1584" height="396" alt="Pink Gradient Graphic Designer General Linkedin Banner" src="https://github.com/user-attachments/assets/222eee62-f215-432a-8349-c6656c6fbc59" />
+<img width="1584" height="396" alt="Pink Gradient Graphic Designer General Linkedin Banner" src="https://github.com/user-attachments/assets/222eee62-f215-432a-8349-c6656c6fbc59" />
 
 
 # I AKHIL
