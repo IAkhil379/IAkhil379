@@ -36,9 +36,6 @@
 
 **Dedicated DevOps, Cloud, and Backend Developer** with a strong focus on AI integration. Constantly leveling up my cloud and infrastructure skills to engineer resilient systems and tackle complex, large-scale technical challenges. Driven by automation, continuous learning, and clean code.
 
-### 💼 Mission Statement
-**Learning DevOps to make things easier & solve complex tasks** — building automation frameworks that transform infrastructure chaos into elegant, scalable solutions.
-
 ### 🔥 Current Focus
 - 🔧 DevOps Engineering & Infrastructure as Code
 - ☁️ Cloud Architecture (AWS, Azure)
