@@ -28,6 +28,101 @@
 <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="#"><img src="https://img.shields.io/badge/Blog-FFA500?style=flat&logo=hashnode&logoColor=white" alt="Blog"></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="#"><img src="https://img.shields.io/badge/Top%20Committer-India-FF4500?style=flat&logo=github&logoColor=white&labelColor=555555" alt="Top Committer India"></a>
+
+</div>
+
+
+## 📖 About Me
+
+**Dedicated DevOps, Cloud, and Backend Developer** with a strong focus on AI integration. Constantly leveling up my cloud and infrastructure skills to engineer resilient systems and tackle complex, large-scale technical challenges. Driven by automation, continuous learning, and clean code.
+
+### 💼 Mission Statement
+**Learning DevOps to make things easier & solve complex tasks** — building automation frameworks that transform infrastructure chaos into elegant, scalable solutions.
+
+### 🔥 Current Focus
+- 🔧 DevOps Engineering & Infrastructure as Code
+- ☁️ Cloud Architecture (AWS, Azure)
+- 🤖 AI Integration in Infrastructure
+- 🚀 Backend Development & Microservices
+- 📊 Observability & Monitoring Systems
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### ☁️ **Cloud Platforms**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🐳 **Containerization & Orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔄 **Infrastructure as Code & Configuration**
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### ⚙️ **CI/CD Pipelines**
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 📊 **Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black)
+
+### 💻 **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🔖 **Version Control**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![IAkhil379's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAkhil379&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAkhil379&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+I'm always interested in collaborating on exciting DevOps, Cloud, and AI infrastructure projects!
+
+**Feel free to reach out if you're interested in:**
+- 💼 DevOps & Cloud Architecture discussions
+- 🔄 CI/CD pipeline optimization & implementation
+- 🤖 AI integration in infrastructure & automation
+- 🌟 Open-source contributions & community projects
+- 📚 Knowledge sharing & mentoring
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IAkhil379&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work helpful, please consider giving it a star!
+
+---
+
+**Made with ❤️ by [IAkhil379](https://github.com/IAkhil379) | DevOps • Cloud • Backend • AI**
 
 </div>
