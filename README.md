@@ -9,18 +9,12 @@
 
 # I A K H I L
 
----
-
-**"You build it, you run it." **
+**You build it, you run it**
 
 <br>
-
-<code>DevOps</code> · <code>MLOps</code> · <code>IDP</code> · <code>AI Infrastructure</code> · <code>Platform Engineering</code>
-
+<code>DevOps</code> · <code>Cloud</code> · <code>IaC</code> · <code>AI Infrastructure</code> · <code>Platform Engineering</code>
 <br>
-
 *Turning DevOps Complexity into Developer Simplicity*
-
 <br>
 
 <!-- 
